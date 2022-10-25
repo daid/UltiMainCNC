@@ -1,0 +1,7 @@
+#ifndef CONFIG_SERIAL_H
+#define CONFIG_SERIAL_H
+
+#define UART_BAUD 115200
+#define UART_INDEX 0
+
+#endif//CONFIG_SERIAL_H
